@@ -1,5 +1,5 @@
 # :fox_face: CloudFox :fox_face:
-CloudFox helps you gain situational awareness in unfamiliar cloud environments. It’s an open source command line tool created to help penetration testers and other offensive security professionals find exploitable attack paths in cloud infrastructure. 
+CloudFox helps you gain situational awareness in unfamiliar cloud environments. It’s an open source command line tool created to help penetration testers and other offensive security professionals find exploitable attack paths in cloud infrastructure. It assists in enumeration of cloud infrastructure and its services
 
 #### CloudFox helps you answer the following common questions (and many more): 
 
